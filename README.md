@@ -1,4 +1,4 @@
-# HSE_Portal_Y3_Project
+# HSE_Project
 Cybercrime Year 3 Project: HSE Website for Covid-19
 + Built with PHP, CSS (Bootstrap 5) & User Personal Information is Encrypted with AES once stored.
 
